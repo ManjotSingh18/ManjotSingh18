@@ -7,21 +7,15 @@ My passion revolves around collecting, transforming, and providing data that hel
 - [CarTelligence](https://github.com/ManjotSingh18/CarTelligence): An application for classifying vehicles by make, model, and year via a machine learning model trained on the Stanford Car Dataset with a goal of satisfying user curiosity.
 - [Walmartify](https://github.com/ManjotSingh18/Walmartify): A data collection program used to generate spreadsheets based upon product prices specified within nearby Walmart stores to analyze price discrepancies.
 - [Medisee](https://github.com/ManjotSingh18/Medisee): A program based around improving the transparency and accessibility of information pertaining to medications and their adverse effects by providing visualizations of cases from the FDA API.
-<!--
-**ManjotSingh18/ManjotSingh18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Video Showcases
+<p float="left">
+  <a href="https://www.youtube.com/watch?v=YatHC76V7u4"><img src="https://img.youtube.com/vi/YatHC76V7u4/maxresdefault.jpg" width="24%" height="auto" style="border-radius:50%"></a>
+  <a href="https://www.youtube.com/watch?v=7zG4Jq6KUHk"><img src="https://img.youtube.com/vi/7zG4Jq6KUHk/maxresdefault.jpg" border-radius= "100px" width="24%" height="auto" border-radius="70%"></a>
+  <a href="https://www.youtube.com/watch?v=-3wCvsZRcR0"><img src="https://img.youtube.com/vi/-3wCvsZRcR0/maxresdefault.jpg" border-radius= "100px" width="24%" height="auto" border-radius="70%"></a>
+   <a href="https://www.youtube.com/watch?v=gjNrZncsNDQ"><img src="https://img.youtube.com/vi/gjNrZncsNDQ/maxresdefault.jpg" border-radius= "100px" width="24%" height="auto" border-radius="70%"></a>
+  
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### Learn more about me!
 [Personal Website](https://manjotsingh18.github.io/) · [LinkedIn](https://www.linkedin.com/in/manjot-singh18/) · [Email](mailto:manjos2@uci.edu) · [YouTube](https://www.youtube.com/@Manjot__Singh18) · [Resume](https://docs.google.com/document/d/1fXvKPYOzAscKRI0R0kiWHhV2VDdWrKF9pJPG3mgSQ-w/edit?usp=sharing)
 
-<!--
