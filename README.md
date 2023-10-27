@@ -1,6 +1,6 @@
 ![logo](Developer.png)
 ## Hello! I am Manjot Singh, an aspiring software developer studying Computer Science at UC Irvine. 
-My passion revolves around collecting, transforming, and providing data that helps further society. When a creative idea pops up in my head the first thing I try to do is integrate it with software. I have developed several personal projects based on those ideas, revolving around incorporating software into daily life essentials including food, medicine, shopping, and vehicles.
+My passion revolves around collecting, transforming, and providing data that helps further society. When a creative idea pops up in my head the first thing I try to do is integrate it with software. I have developed several personal projects based on those ideas focusing on incorporating software into daily life essentials including food, medicine, shopping, and vehicles.
 
 ### Personal Projects
 - [Grosearch](https://github.com/ManjotSingh18/Grosearch): A grocery search engine with a singular search that encompasses several grocers and displays products side-by-side for convenient comparison saving time, and money.
