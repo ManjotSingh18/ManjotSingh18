@@ -5,7 +5,7 @@ My passion revolves around collecting, transforming, and providing data that hel
 ### Personal Projects
 - [Grosearch](https://github.com/ManjotSingh18/Grosearch): A grocery search engine that encompasses several grocers and displays products side-by-side for convenient comparison saving time and money.
 - [CarTelligence](https://github.com/ManjotSingh18/CarTelligence): An application for classifying vehicles by make, model, and year via a machine learning model trained on the Stanford Car Dataset with the goal of satisfying user curiosity.
-- [Walmartify](https://github.com/ManjotSingh18/Walmartify): A data collection program used to generate spreadsheets based upon product prices within nearby Walmart stores to analyze price discrepancies.
+- [Walmartify](https://github.com/ManjotSingh18/Walmartify): A data collection program used to generate spreadsheets based upon product prices from nearby Walmart stores to analyze price discrepancies.
 - [Medisee](https://github.com/ManjotSingh18/Medisee): A program based on improving the transparency and accessibility of information pertaining to medications and their adverse effects that provides visualizations of cases from the FDA API.
 #### Video Showcases
 <p float="left">
