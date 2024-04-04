@@ -17,5 +17,4 @@ My passion revolves around collecting, transforming, and providing data that hel
 </p>
 
 ### Learn more about me!
-[Personal Website](https://manjotsingh18.github.io/) · [LinkedIn](https://www.linkedin.com/in/manjot-singh18/) · [Email](mailto:manjos2@uci.edu) · [YouTube](https://www.youtube.com/@Manjot__Singh18) · [Resume](https://docs.google.com/document/d/1lWKlcoqCd3p3QnYEszZYCAVHdIS-oyMlWnQPbq9urL4/edit?usp=sharing)
-
+[Personal Website](https://manjotsingh18.github.io/) · [LinkedIn](https://www.linkedin.com/in/manjot-singh18/) · [Email](mailto:manjos2@uci.edu) · [YouTube](https://www.youtube.com/@Manjot__Singh18)
